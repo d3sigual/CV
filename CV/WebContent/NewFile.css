@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+
+.bg_lightgray {
+	
+	background-color: #babdb6;
+}
+
+.bg_gray {
+	
+	background-color: gray;
+}
+
+.headerwords{
+	font-size: xx-large;
+	text-decoration: underline;
+	background-color: #729fcf;
+	color: gray;
+	
+}
