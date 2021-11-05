@@ -15,6 +15,32 @@
 	font-size: xx-large;
 	text-decoration: underline;
 	background-color: #729fcf;
-	color: gray;
+	color:black;
 	
+}
+
+.bg_azul{
+	
+	background-color: hsl(200, 15%, 75%);
+}
+
+.oblique {
+	
+	font-style: oblique;
+}
+
+.headerwords_italic{
+	font-size: x-large;
+	text-decoration: underline;
+	background-color: #729fcf;
+	color:gray;
+	font-style: italic;
+}
+
+.pie {
+	
+	background-color: white;
+	font-style: italic;
+	color: black;
+	text-align: right;
 }
