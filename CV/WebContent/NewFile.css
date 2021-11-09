@@ -44,3 +44,11 @@
 	color: black;
 	text-align: right;
 }
+
+.emphasis {
+	color: hsl(200, 100%, 30%);
+}
+.emphasis_strong{
+	color: hsl(200, 100%, 30%);
+	font-weight: bold;
+}
